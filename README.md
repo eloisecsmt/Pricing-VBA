@@ -1,7 +1,4 @@
-# Bonjour
+# Projet sur VBA d'un Pricer d'Option, Obligation et début de Swap
 
-## Titre de niveau 2
+## Ce projet a été réalisé en collaboration avec l'entreprise 2CF en Décembre 2023
 
-### Titre de niveau 3 
-
-Je suis un fichier en markdown voilà
